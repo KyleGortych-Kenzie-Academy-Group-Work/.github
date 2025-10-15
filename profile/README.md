@@ -92,6 +92,8 @@ Members:
 </details>
 </div>
 
+🚧 Due to transfering git orgs into one, git workflow paths need updating.
+
 <div align="center">
 <details>
   <summary align="center">📊 Repo Status (click to expand)</summary>
