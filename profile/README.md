@@ -43,6 +43,14 @@ Members:
       </a>
 </div>
 
+<br>
+
+<div align="center">
+  <a href="https://kylegortych-kenzie-academy-group-work.github.io/">
+        <img src="https://img.shields.io/badge/Website-white?style=plastic&logo=" height="20" alt="Website"/>
+      </a>
+</div>
+
 <div align="left">
     <h2>About The Organization :building_construction:</h2>
 </div>
