@@ -88,8 +88,30 @@ Members:
 <details>
   <summary align="center">📊 Repo Status (click to expand)</summary>
   
-  ![Test - 1](https://img.shields.io/github/actions/workflow/status/repoName/Blank/main.yml?label=Week1)
-  ![Test - 2](https://img.shields.io/github/actions/workflow/status/repoName/Blank/main.yml?label=Capstone)
+  ![Test - 1](https://img.shields.io/github/actions/workflow/status/repoName/Blank/main.yml?label=Week2)
+  ![Test - 2](https://img.shields.io/github/actions/workflow/status/repoName/Blank/main.yml?label=Week3)
+  ![Test - 3](https://img.shields.io/github/actions/workflow/status/repoName/Blank/main.yml?label=Week4)
+  ![Test - 4](https://img.shields.io/github/actions/workflow/status/repoName/Blank/main.yml?label=Week5)
+  ![Test - 5](https://img.shields.io/github/actions/workflow/status/repoName/Blank/main.yml?label=Week6)
+  ![Test - 6](https://img.shields.io/github/actions/workflow/status/repoName/Blank/main.yml?label=Week7)
+  ![Test - 7](https://img.shields.io/github/actions/workflow/status/repoName/Blank/main.yml?label=Week8)
+  ![Test - 8](https://img.shields.io/github/actions/workflow/status/repoName/Blank/main.yml?label=Week9)
+  ![Test - 9](https://img.shields.io/github/actions/workflow/status/repoName/Blank/main.yml?label=Week10)
+  ![Test - 10](https://img.shields.io/github/actions/workflow/status/repoName/Blank/main.yml?label=Week11)
+  ![Test - 11](https://img.shields.io/github/actions/workflow/status/repoName/Blank/main.yml?label=Week12)
+  ![Test - 12](https://img.shields.io/github/actions/workflow/status/repoName/Blank/main.yml?label=Week13)
+  ![Test - 13](https://img.shields.io/github/actions/workflow/status/repoName/Blank/main.yml?label=Week14)
+  ![Test - 14](https://img.shields.io/github/actions/workflow/status/repoName/Blank/main.yml?label=Week15)
+  ![Test - 15](https://img.shields.io/github/actions/workflow/status/repoName/Blank/main.yml?label=Week16)
+  ![Test - 16](https://img.shields.io/github/actions/workflow/status/repoName/Blank/main.yml?label=Week17)
+  ![Test - 17](https://img.shields.io/github/actions/workflow/status/repoName/Blank/main.yml?label=Week18)
+  ![Test - 18](https://img.shields.io/github/actions/workflow/status/repoName/Blank/main.yml?label=Week19)
+  ![Test - 19](https://img.shields.io/github/actions/workflow/status/repoName/Blank/main.yml?label=Week20)
+  ![Test - 20](https://img.shields.io/github/actions/workflow/status/repoName/Blank/main.yml?label=Week21)
+  ![Test - 21](https://img.shields.io/github/actions/workflow/status/repoName/Blank/main.yml?label=Week22)
+  ![Test - 22](https://img.shields.io/github/actions/workflow/status/repoName/Blank/main.yml?label=Week23)
+  
+  ![Test - n](https://img.shields.io/github/actions/workflow/status/repoName/Blank/main.yml?label=Capstone)
   
 </details>    
 
