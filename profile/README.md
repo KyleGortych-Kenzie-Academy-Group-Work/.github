@@ -48,6 +48,12 @@ Members:
 </div>
 
 <div align="left">
+  🚧 Currently transfering git orgs into one.
+</div>
+
+<br>
+
+<div align="left">
     The group work is comprised of gradle projects. Each repo is based on a per week basis. On completion of term work, entire project structure will be added to the main and original branchs for all repos. Some work is done to utilize contract driven design however, unit testing via the projects root markdown will be the main process of task completion. 
 </div>
 
