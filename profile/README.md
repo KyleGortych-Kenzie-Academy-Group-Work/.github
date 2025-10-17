@@ -24,7 +24,7 @@ Members:
         <img src="https://img.shields.io/badge/meazaberhe24-white?style=plastic&logo=" height="20" alt="meazaberhe24"/>
       </a>
       <a href="https://github.com/nancyurciuoli">
-        <img src="https://img.shields.io/badge/blank-white?style=plastic&logo=" height="20" alt="nancyurciuoli"/>
+        <img src="https://img.shields.io/badge/nancyurciuoli-white?style=plastic&logo=" height="20" alt="nancyurciuoli"/>
       </a>
       <a href="https://github.com/molliver">
         <img src="https://img.shields.io/badge/molliver-white?style=plastic&logo=" height="20" alt="molliver"/>
